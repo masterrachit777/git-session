@@ -1,3 +1,4 @@
 # git-session
-Learning Git
+Learning Git.
+
 It's a tutorial repo posted while learning Git and Github
